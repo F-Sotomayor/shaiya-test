@@ -1,0 +1,8 @@
+BACKUP DATABASE PS_UserData TO DISK = 'c:\AutoBackUp\PS_UserData.bak'
+BACKUP DATABASE PS_Billing TO DISK = 'c:\AutoBackUp\PS_Billing.bak'
+BACKUP DATABASE PS_GameDefs TO DISK = 'c:\AutoBackUp\PS_GameDefs.bak'
+BACKUP DATABASE PS_GameData TO DISK = 'c:\AutoBackUp\PS_GameData.bak'
+BACKUP DATABASE PS_GameLog TO DISK = 'c:\AutoBackUp\PS_GameLog.bak'
+BACKUP DATABASE PS_ChatLog TO DISK = 'c:\AutoBackUp\PS_ChatLog.bak'
+BACKUP DATABASE PS_UserData TO DISK = 'c:\AutoBackUp\PS_UserData.bak'
+go
